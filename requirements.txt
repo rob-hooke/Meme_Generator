@@ -79,7 +79,7 @@ textract==1.6.3
 tika==1.23
 typing-extensions==3.7.4.1
 tzlocal==1.5.1
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.16.0
 xlrd==1.2.0
 XlsxWriter==1.2.7
